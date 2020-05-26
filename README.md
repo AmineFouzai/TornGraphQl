@@ -65,9 +65,9 @@ Create Posts:
                     Id
                     title
                     body
-                   }
-               } 
-            }
+                 }
+              } 
+           }
 
 Delete Posts:
 
