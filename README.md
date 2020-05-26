@@ -67,7 +67,7 @@ Create Posts:
                     body
               }
              } 
-}
+            }
 
 Delete Posts:
 
@@ -79,7 +79,7 @@ Delete Posts:
                   body
            }
          }
-}
+        }
 
 Update Posts:
 
@@ -91,7 +91,7 @@ Update Posts:
                   body
             }
            }
-}
+          }
 
 
 
