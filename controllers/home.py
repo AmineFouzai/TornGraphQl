@@ -30,7 +30,7 @@ class  CreatePost(graphene.Mutation):
 		posts=[ Post(_id=res.id,title=res.title,body=res.body) for res in data]
 		return CreatePost(posts)
 
-#46
+
 class DeletePost(graphene.Mutation):
 	class Arguments:
 		_id=graphene.ID()
