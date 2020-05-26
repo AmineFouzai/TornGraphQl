@@ -65,8 +65,8 @@ Create Posts:
                     Id
                     title
                     body
-              }
-             } 
+                   }
+               } 
             }
 
 Delete Posts:
@@ -77,8 +77,8 @@ Delete Posts:
                   Id
                   title
                   body
+              }
            }
-         }
         }
 
 Update Posts:
@@ -89,8 +89,8 @@ Update Posts:
                   Id
                   title
                   body
+               }
             }
-           }
           }
 
 
