@@ -1,6 +1,6 @@
 # TornGraphQl
 A Simple Python GraphQL API Built with Tornado and SQLalchemy for managing crud life cycle of a Post object.
-# #setup:
+# setup:
 
 <table>
 <tr>
@@ -40,13 +40,13 @@ A Simple Python GraphQL API Built with Tornado and SQLalchemy for managing crud 
 
 ------------------------------------------
 
-# #Usage:
+# Usage:
 
 Playground: http://localhost:8000/graphql 
 
 now you can send requests via querys and see the result " YOUR API IS A USER INTERFACE !"
 
-## querys
+## Querys:
 Get Posts:
 
      {
