@@ -49,6 +49,7 @@ now you can send requests via querys and see the result " YOUR API IS A USER INT
 ## Querys:
 Get Posts:
 
+```GraphQL
      {
        posts {
            Id
@@ -56,9 +57,10 @@ Get Posts:
            body
        }
      }
+```
 
 Create Posts:
-        
+```GraphQL
         mutation{
             createPost(title:"post n ",body:"this is post n"){
                 posts {
@@ -68,9 +70,11 @@ Create Posts:
                  }
               } 
            }
+```
 
 Delete Posts:
 
+```GraphQL
       mutation{
           deletePost(Id:"xxxxx"){
               posts {
@@ -80,9 +84,11 @@ Delete Posts:
               }
            }
         }
+```
 
 Update Posts:
 
+```GraphQL
       mutation{
           updatePost(Id:"xxxxx",title:"post n ",body:"this post n"){
               posts {
@@ -93,5 +99,5 @@ Update Posts:
             }
           }
 
-
+```
 
