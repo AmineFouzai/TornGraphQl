@@ -44,7 +44,7 @@ A Simple Python GraphQL API Built with Tornado and SQLalchemy for managing crud 
 
 Playground: http://localhost:8000/graphql 
 
-now you can send requests via querys and see the result " YOUR API IS A USER INTERFACE !"
+Now you can send requests via querys and see the result " YOUR API IS A USER INTERFACE !"
 
 ## Querys:
 Get Posts:
