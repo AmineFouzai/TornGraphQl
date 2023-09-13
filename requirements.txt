@@ -1,6 +1,6 @@
 aniso8601==7.0.0
 bandit==1.6.2
-certifi==2022.12.7
+certifi==2023.7.22
 colorama==0.4.3
 entrypoints==0.3
 flake8==3.7.9
